@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "zcatalyst-cli": "^1.12.1"
+  }
+}
